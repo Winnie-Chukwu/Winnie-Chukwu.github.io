@@ -2,7 +2,6 @@
 Welcome to the digital hub where data meets creativity. This is more than just a portfolio — it’s a curated story of insights, dashboards, and decision-driven projects that showcase my evolving journey in data analytics and business intelligence.
 ## About This Portfolio
 In a world where data tells the stories of people, markets, and experiences, I strive to transform numbers into narratives that inspire action.
-
 This website serves as:
 - A canvas for my data projects
 - A reflection of my learning journey
