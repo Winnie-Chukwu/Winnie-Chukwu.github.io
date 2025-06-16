@@ -1,7 +1,7 @@
 # Phina Chukwu | Data Analyst| Business Intelligence Enthusiast
 Welcome to the digital hub where data meets creativity. This is more than just a portfolio — it’s a curated story of insights, dashboards, and decision-driven projects that showcase my evolving journey in data analytics and business intelligence.
 **Live Porfolio Website:**
-[https://winnie-chukwu.github.io/](https://winnie-chukwu.github.io/)
+[https://Chukwu-Phina-Portfolio.github.io/](https://Chukwu-Phina-Portfolio.github.io/)
 ## About This Portfolio
 In a world where data tells the stories of people, markets, and experiences, I strive to transform numbers into narratives that inspire action.
 
